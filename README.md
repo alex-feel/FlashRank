@@ -34,7 +34,7 @@ Supports:
 - See below for full list of supported models.
 
 ---
-> Before you proceed. **Thanks to Tiger-CRM for sponsoring my work,** they have thier own OSS [checkout their work here ](https://github.com/Tiger-CRM)
+> Before you proceed. **Thanks to Tiger-CRM for sponsoring my work,** they have thier own OSS [check it out](https://github.com/Tiger-CRM)
 ---
 
 # Table of Contents  
