@@ -33,9 +33,6 @@ Supports:
 - Listwise LLM based rerankers. (LLM based, i.e. ```Max tokens = 8192```)
 - See below for full list of supported models.
 
----
-> Before you proceed. **Thanks to Tiger-CRM for sponsoring my work,** they source OSS developers [check it out](https://github.com/Tiger-CRM)
----
 
 # Table of Contents  
 
